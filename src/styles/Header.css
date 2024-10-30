@@ -1,0 +1,10 @@
+.header{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navbar ul{
+    display: flex;
+    gap: 20px;
+}
